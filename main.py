@@ -1,6 +1,7 @@
 from datetime import datetime
 from into_database import *
 from into_csv import *
+from my_settings import INPUT, OUTPUT
 
 
 class Problem:
